@@ -1,3 +1,8 @@
-# weather-app
+# weather-website
 
-This is my Weather App link you can see here:https://mariumtech2000.github.io/weather-app/
+Hello, welcome to inflex technologies, this project is just a sample of weather website that shows current and forcast weather around the world.
+
+you can view the dummy website down the link below:
+
+
+https://inflextechnologies.github.io/weather-website/.
